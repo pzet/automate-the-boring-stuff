@@ -1,2 +1,2 @@
 # automate-the-boring-stuff
-My solutions to Automate the Boring Stuff by Al Sweigart
+These are my solutions to the "Automate the Boring Stuff" book written by Al Sweigart.
